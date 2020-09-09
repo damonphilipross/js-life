@@ -5,7 +5,8 @@ module.exports = function (eleventyConfig) {
     "html",
     "css" // css is not yet a recognized template extension in Eleventy
   ]);
-  dir: {
-    output: "docs"
+  return {
+    pathPrefix: "/js-life-thing/"
   }
+
 };

@@ -51,11 +51,11 @@ function computeOptions() {
     </h5>
 
     <h5>
-     You can make ${formatter.format(retirement(five))} a week passively with your 10 year 5% thing.
+     You can make ${formatter.format(retirement(five))} a week passively after 10 years of saving and slavin on 5% consistent interest.
     </h5>
 
     <h5>
-     You can make ${formatter.format(retirement(seven))} a week passively with your 10 year 7% thing.
+     You can make ${formatter.format(retirement(seven))} a week passively after 10 years of saving and slavin on 7% consistent interest.
     </h5>
 
     </div>
