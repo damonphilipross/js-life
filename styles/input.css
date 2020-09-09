@@ -4,6 +4,10 @@
   text-align: center;
 }
 
+.inputs {
+  padding: 12px;
+}
+
 .outcomes {
   color: black;
   /* background-image: url('../assets/wageslavin.jpg'); */
