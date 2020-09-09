@@ -1,0 +1,22 @@
+.input {
+  padding-top: 10%;
+  grid-column: span 12;
+  text-align: center;
+}
+
+.inputs {
+  padding: 12px;
+}
+
+.outcomes {
+  color: black;
+  /* background-image: url('../assets/wageslavin.jpg'); */
+  background: cover;
+  height: 500px;
+  grid-column: span 12;
+  text-align: center;
+}
+
+.life {
+  padding: 50px;
+}
